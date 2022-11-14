@@ -21,7 +21,7 @@ const LandingPageScreen = ({location, history}) => {
     }, [dispatch, history,userInfo])
     return (
         <div>
-            <h1>FEATURES:</h1>
+            <h1>Welcome to BMC</h1>
             {loading ? <Loader /> : error
                 ? <Message variant='danger'>{error}</Message>
                 : <Row>
