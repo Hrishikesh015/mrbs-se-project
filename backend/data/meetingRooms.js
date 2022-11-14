@@ -1,15 +1,15 @@
 const meetingrooms = [
     {
-        roomName: 'Executive Playground',
+        roomName: 'Seminar hall 1',
         image: '/images/room1.jpg',
         location: {
-            address: 'Survey No.27, Katraj',
-            city: 'Pune'
+            address: 'Main Block, Ground Floor',
+            city: 'Bangalore'
         },
         pointOfContact: {
-            name: 'Sanchit Raina',
+            name: 'Hrishikesh BH',
             mobile: '+91 9149659875',
-            email: 'sanchitraina1999@gmail.com'
+            email: 'abc@gmail.com'
         },
         bookedTimes: [
             {
@@ -21,16 +21,16 @@ const meetingrooms = [
         ]
     },
     {
-        roomName: 'Thunderdome',
+        roomName: 'Seminar hall 2',
         image: '/images/room2.jpg',
         location: {
-            address: 'Hiranandani Gardens, Powai',
-            city: 'Mumbai'
+            address: 'Main Block, First Floor',
+            city: 'Bangalore'
         },
         pointOfContact: {
-            name: 'Sahil Singh',
-            mobile: '+91 7006683179',
-            email: 'sahilbhau74@gmail.com'
+            name: 'J Chethana Datta',
+            mobile: '+91 9149659875',
+            email: 'def@gmail.com'
         },
         bookedTimes: [
             {
@@ -42,44 +42,44 @@ const meetingrooms = [
         ]
     },
     {
-        roomName: 'Spider Skull Island',
-        image: '/images/room4.jpg',
+        roomName: 'Seminar hall 3',
+        image: '/images/room3.jpg',
         location: {
-            address: 'Bibwewadi',
-            city: 'Pune'
+            address: 'Main Block, Second Floor',
+            city: 'Bangalore'
         },
         pointOfContact: {
-            name: 'Rajwinder Singh',
-            mobile: '+91 9682666878',
-            email: 'rajwinder879@gmail.com'
+            name: 'Kshama Prasad',
+            mobile: '+91 9149659875',
+            email: 'ghi@gmail.com'
         },
         bookedTimes: [
             {
                 startDate: '2021-5-22T08:54',
                 endDate: '2021-5-22T08:54',
                 bookedBy: '60a87d34068c169b2810942b',
-                purposeOfBooking: 'Coding Conclave'
+                purposeOfBooking: 'Cloud Seminar'
             }
         ]
     },
     {
-        roomName: 'Mos Eisley Cantina',
-        image: '/images/room3.jpg',
+        roomName: 'Seminar hall 4',
+        image: '/images/room4.jpg',
         location: {
-            address: 'Manish Market, Dadar',
-            city: 'Mumbai'
+            address: 'Main Block, Third Floor',
+            city: 'Bangalore'
         },
         pointOfContact: {
-            name: 'Nikhil Kulkarni',
-            mobile: '+91 7889706221',
-            email: 'nikhil2001@gmail.com'
+            name: 'Lenver Pinto',
+            mobile: '+91 9149659875',
+            email: 'jkl@gmail.com'
         },
         bookedTimes: [
             {
                 startDate: '2021-5-22T08:54',
                 endDate: '2021-5-22T08:54',
                 bookedBy: '60a87d34068c169b2810942b',
-                purposeOfBooking: 'Student Branch Meeting'
+                purposeOfBooking: 'Student Council Meeting'
             }
         ]
     }
