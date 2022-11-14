@@ -2,13 +2,9 @@
 
 ### Meeting Room Booking System
 
--------------------------------
 
 BMC is a MERN-based application for booking meeting/conference rooms. 
 
-------
-
-To Use
 
 ------
 Make sure Node.js is installed in your system. If its not, kindly refer [here](https://nodejs.org/en/download/) to install for your OS.
@@ -71,7 +67,6 @@ The landing page will open at http://localhost:3000
 
 Contributors:
 
--------------
 Hrishikesh Koundinya @[235hkoundinya@gmail.com](mailto:235hkoundinya@gmail.com) [Backend, Routes, API]<br/>
 Jugulam Chethana Datta[Frontend, Bug Testing]<br/>
 Kshama Prasad [SignIn, SignUp, Structuring]<br/>
@@ -81,7 +76,6 @@ Lenver Pinto [Bug Testing, Meeting Room Screen, Meeting Room Route]
 
 Technologies used:
 
--------------
 
 MongoDB<br/>
 Express.js<br/>
