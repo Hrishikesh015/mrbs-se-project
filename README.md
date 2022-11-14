@@ -1,11 +1,10 @@
-# mrbs - MEETING ROOM BOOKING SYSTEM
+# BMC - Book My Conference
 
-Meeting Room Booking System
+### Meeting Room Booking System
 
 -------------------------------
 
-The Meeting Room Booking System (MRBS) is a MERN-based application for
-booking meeting rooms. 
+BMC is a MERN-based application for booking meeting/conference rooms. 
 
 ------
 
@@ -68,55 +67,6 @@ npm run dev
 
 The landing page will open at http://localhost:3000
 
-![](screenshots/landingPage.png)
-
-Click on SIGN IN
-
-![](screenshots/signinPage.png)
-
-Click on Register Here
-
-![](screenshots/signupPage.png)
-
-Register here and yoila you are signed up!
-
-![](screenshots/homepage.png)
-
-Now, to book any room you have to hover over that room and click.
-
-![](screenshots/bookingPage.png)
-
-Check the availability and book room, if applicable.
-
-If you have successfully booked the room, check the booked meeting room in my profile section.
-
-![](screenshots/profilePage.png)
-
-You can edit user details in this section as well as delete any booked meeting room.
-
-Forgot your password?:
-
-![](screenshots/passwordRecoveryPage.png)
-
-Check out your email for the new generated password
-
-![](screenshots/passwordRecoveryEmail.png)
-
--------------
-
-Requirements:
-
--------------
-
-- Node.js v14.15.4
-
-Recommended:
-
-- JavaScript-enabled browser
-
-- CSS-enabled browser
-
-
 -------------
 
 Contributors:
@@ -139,16 +89,3 @@ React.js<br/>
 Node.js<br/>
 
 
--------------
-
-Set of Dependencies:
-
--------------
-
-Backend:
-
-![](screenshots/backendDependencies.png)
-
-Frontend:
-
-![](screenshots/frontendDependencies.png)
