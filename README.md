@@ -68,7 +68,7 @@ The landing page will open at http://localhost:3000
 Contributors:
 
 Hrishikesh Koundinya @[235hkoundinya@gmail.com](mailto:235hkoundinya@gmail.com) [Backend, Routes, API]<br/>
-Jugulam Chethana Datta[Frontend, Bug Testing]<br/>
+Jugulam Chethana Datta @[chethandatta2@gmail.com](mailto:chethandatta2@gmail.com) [Frontend, Bug Testing]<br/>
 Kshama Prasad [SignIn, SignUp, Structuring]<br/>
 Lenver Pinto [Bug Testing, Meeting Room Screen, Meeting Room Route]
 
