@@ -24,7 +24,7 @@ const Header = ({}) => {
             <Navbar bg="dark" variant='dark' expand="lg" collapseOnSelect>
                 <Container>
                     <LinkContainer to={loginSuccess?'/homepage':'/'}>
-                        <Navbar.Brand>Meeting Room Booking System</Navbar.Brand>
+                        <Navbar.Brand>Book My Conference</Navbar.Brand>
                     </LinkContainer>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
