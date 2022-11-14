@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon-management</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FF7F41" offset="0%"></stop>
+            <stop stop-color="#C6168D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MRB-Icons" transform="translate(-492.000000, 0.000000)">
+            <g id="icon-management" transform="translate(492.000000, 0.000000)">
+                <g id="Group-29" transform="translate(8.368421, 13.736842)">
+                    <path d="M50.3508772,28.9069844 L50.3508772,3.36440603 C50.3508772,1.50632969 48.887447,0 47.0822878,0 L6.95279989,0 C5.14764067,0 3.68421053,1.50632969 3.68421053,3.36440603 L3.68421053,34.3859649 L27.0175439,34.3859649" id="Stroke-1" stroke="#62717A" stroke-width="1.2"></path>
+                    <path d="M28.1862493,38.0701754 L3.42032742,38.0701754 C1.531305,38.0701754 0,36.4224454 0,34.3898006 L26.9436378,34.3859649" id="Stroke-3" stroke="#62717A" stroke-width="1.2"></path>
+                    <polyline id="Stroke-5" stroke="url(#linearGradient-1)" stroke-width="1.5" stroke-linejoin="round" points="47.8947368 28.5929726 47.8947368 2.72523043 6.14035088 2.72523043 6.14035088 31.9298246 26.177593 31.9298246"></polyline>
+                    <path d="M51.5789474,32.1320157 C52.2608921,31.7376751 53.1742243,31.9607237 53.6343759,32.4516258 C54.0945274,32.9425279 54.3580257,34.9388577 53.2362832,36.4541337 C52.1465628,37.9253771 50.3251869,38.5455922 49.122807,37.8779436" id="Stroke-11" stroke="#62717A" stroke-width="1.2"></path>
+                    <path d="M44.2105263,41.6846774 C46.2380117,40.7269856 51.0438404,37.4840987 51.5830699,30.7017544" id="Stroke-13" stroke="#62717A" stroke-width="1.2" stroke-linejoin="round"></path>
+                    <path d="M51.5673368,31.10854 C51.5750772,30.9729132 51.5789474,30.8373811 51.5789474,30.7017544 L28.245614,30.7017544 C28.245614,35.7684621 31.4094886,40.0878041 35.8513944,41.754386" id="Stroke-15" stroke="#62717A" stroke-width="1.2" stroke-linejoin="round"></path>
+                    <path d="M42.9824561,25.7894737 L42.9824561,28.245614" id="Stroke-17" stroke="#62717A" stroke-width="1.2" stroke-linejoin="round"></path>
+                    <path d="M40.5263158,23.3333333 L40.5263158,28.245614" id="Stroke-19" stroke="#62717A" stroke-width="1.2" stroke-linejoin="round"></path>
+                    <path d="M38.0701754,25.7894737 L38.0701754,28.245614" id="Stroke-21" stroke="#62717A" stroke-width="1.2" stroke-linejoin="round"></path>
+                    <path d="M28.245614,42.9824561 L50.3498927,42.9824561" id="Stroke-27" stroke="#62717A" stroke-width="1.2" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

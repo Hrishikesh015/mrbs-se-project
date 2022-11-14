@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon-mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 29 0 29 44 0 44"></polygon>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FF7F41" offset="0%"></stop>
+            <stop stop-color="#C6168D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MRB-Icons" transform="translate(-574.000000, 0.000000)">
+            <g id="icon-mobile" transform="translate(574.000000, 0.000000)">
+                <g id="Group-8" transform="translate(21.000000, 14.000000)">
+                    <g id="Group-3">
+                        <g id="Fill-1-Clipped">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="path-1"></g>
+                            <path d="M26.1049373,2.70534359 L26.1049373,41.2939707 C26.1049373,41.8219621 25.6124924,42.2354411 24.9837028,42.2354411 L3.99544448,42.2354411 C3.3666549,42.2354411 2.87421,41.8219621 2.87421,41.2939707 L2.87421,2.70534359 C2.87421,2.17735221 3.3666549,1.76455895 3.99544448,1.76455895 L24.9837028,1.76455895 C25.6124924,1.76455895 26.1049373,2.17735221 26.1049373,2.70534359 M24.9837028,1 L3.99544448,1 C2.87661609,1 2,1.74810207 2,2.70534359 L2,41.2939707 C2,42.2512122 2.87661609,43 3.99544448,43 L24.9837028,43 C26.1145616,43 27,42.2512122 27,41.2939707 L27,2.70534359 C27,1.74810207 26.1145616,1 24.9837028,1" id="Fill-1" stroke="url(#linearGradient-3)" stroke-width="0.2" fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                    <rect id="Rectangle" fill-opacity="0.0967821241" fill="#FF7F41" fill-rule="nonzero" x="4" y="3" width="21" height="33" rx="1"></rect>
+                    <path d="M17.6695794,3 L12.3462711,3 C12.135948,3 12,3.23557604 12,3.599447 C12,3.96442396 12.135948,4.2 12.3462711,4.2 L17.6695794,4.2 C17.8671002,4.2 18,3.95889401 18,3.599447 C18,3.24110599 17.8671002,3 17.6695794,3" id="Fill-4" fill="#62717A" fill-rule="nonzero"></path>
+                    <path d="M15.0003728,37.7828518 C15.6713886,37.7828518 16.2171482,38.3293569 16.2171482,39.0003728 C16.2171482,39.6803355 15.6713886,40.2342964 15.0003728,40.2342964 C14.3293569,40.2342964 13.7835974,39.6803355 13.7835974,39.0003728 C13.7835974,38.3293569 14.3293569,37.7828518 15.0003728,37.7828518 M15.0003728,37 C13.8976701,37 13,37.8969245 13,39.0003728 C13,40.1023299 13.8976701,41 15.0003728,41 C16.1030755,41 17,40.1023299 17,39.0003728 C17,37.8969245 16.1030755,37 15.0003728,37" id="Fill-6" stroke="#62717A" stroke-width="0.2" fill="#62717A" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

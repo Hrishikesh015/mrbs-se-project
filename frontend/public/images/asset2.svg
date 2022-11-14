@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon-reporting</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#C6168D" offset="0%"></stop>
+            <stop stop-color="#FF7F41" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#C6168D" offset="0%"></stop>
+            <stop stop-color="#FF7F41" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#C6168D" offset="0%"></stop>
+            <stop stop-color="#FF7F41" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#C6168D" offset="0%"></stop>
+            <stop stop-color="#FF7F41" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MRB-Icons" transform="translate(-820.000000, 0.000000)">
+            <g id="icon-reporting" transform="translate(820.000000, 0.000000)">
+                <g id="Group-21" transform="translate(13.068966, 13.862069)">
+                    <g id="Group-17">
+                        <polyline id="Stroke-1" stroke="#62717A" points="44.8266264 44.0019718 0 44.0019718 0 0"></polyline>
+                        <polyline id="Stroke-3" stroke="#62717A" points="5 44 5 25.0750951 5 23"></polyline>
+                        <path d="M19,44 L19,20" id="Stroke-5" stroke="#62717A"></path>
+                        <path d="M12,27 L12,44" id="Stroke-7" stroke="#62717A"></path>
+                        <path d="M26,44 L26,14" id="Stroke-9" stroke="#62717A"></path>
+                        <path d="M33,44 L33,11" id="Stroke-11" stroke="#62717A"></path>
+                        <path d="M40,44 L40,21" id="Stroke-13" stroke="#62717A"></path>
+                        <polyline id="Stroke-15" stroke="url(#linearGradient-1)" stroke-linejoin="round" points="45.1623178 14.8602605 40.1709172 16.6526431 33.039129 7 25.9073409 12.4574321 18.7755528 14.4346112 11.6432919 24.215044 4.51150373 19.103927 0 22.5846552"></polyline>
+                    </g>
+                    <polygon id="Stroke-18" stroke="url(#linearGradient-2)" fill-opacity="0.1" fill="#FF7F41" fill-rule="nonzero" stroke-linejoin="round" points="4 8.99792149 4 11.76842 6.78859082 8.99792149 25.0876886 8.99792149 25.0876886 0 4 0"></polygon>
+                    <path d="M21.4827586,3 L7,3" id="Stroke-19" stroke="url(#linearGradient-3)" stroke-linejoin="round"></path>
+                    <path d="M16.6551724,6 L7,6" id="Stroke-20" stroke="url(#linearGradient-4)" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
