@@ -2,8 +2,6 @@
 
 Meeting Room Booking System
 
-[(https://mrbsapp.herokuapp.com)](https://mrbsapp.herokuapp.com/)
-
 -------------------------------
 
 The Meeting Room Booking System (MRBS) is a MERN-based application for
@@ -19,7 +17,7 @@ Make sure Node.js is installed in your system. If its not, kindly refer [here](h
 You can download this project or git clone it by running from your terminal:
 
 ```
-git clone https://github.com/Sanchitraina1999/mrbs
+git clone http://github.com/Hrishikesh015/mrbs-se-project.git
 ```
 
 Make sure that you are in the project folder:
@@ -124,9 +122,10 @@ Recommended:
 Contributors:
 
 -------------
-Sanchit Raina @[sanchitraina1999@gmail.com](mailto:sanchitraina1999@gmail.com) [LandingPage, HomePage, Profile Screen, Backend]<br/>
-Sahil Singh [Booking Page Screen]<br/>
-Rajwinder Singh [SignIn, SignUp, ForgotPassword]
+Hrishikesh Koundinya @[235hkoundinya@gmail.com](mailto:235hkoundinya@gmail.com) [Backend, Routes, API]<br/>
+Jugulam Chethana Datta[Frontend, Bug Testing]<br/>
+Kshama Prasad [SignIn, SignUp, Structuring]<br/>
+Lenver Pinto [Bug Testing, Meeting Room Screen, Meeting Room Route]
 
 -------------
 
