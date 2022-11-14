@@ -21,9 +21,9 @@ const LandingPageScreen = ({location, history}) => {
     }, [dispatch, history,userInfo])
     return (
         <div>
-            <h1>Welcome to BMC</h1>
-        <p>Login or Sign-up to get started.</p><br/>
-        <h4>Features of BMC:</h4>
+            <h4>Welcome to BMC</h4>
+            <p>Book My Conference is a MERN based meeting room booking software which allows users to seamlessly book meeting or conference rooms for their upcoming events. <br/><br/><h5>Login or Sign-up to get started</h5></p><br/>
+            <h5>Features of BMC:</h5>
             {loading ? <Loader /> : error
                 ? <Message variant='danger'>{error}</Message>
                 : <Row>
